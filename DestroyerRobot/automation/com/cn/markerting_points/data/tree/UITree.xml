@@ -1,0 +1,7 @@
+<Pages>
+    <Page keyword="积分列表">
+        <UIElement keyword="积分管理" by="class name" value="el-submenu__title"></UIElement>
+        <UIElement keyword="营销管理" by="class name" value="el-submenu__title"></UIElement>
+        <UIElement keyword="积分商城" by="class name" value="el-submenu__title"></UIElement>
+    </Page>
+</Pages>

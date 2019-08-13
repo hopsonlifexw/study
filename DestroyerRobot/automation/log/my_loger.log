@@ -1,0 +1,412 @@
+2019-06-26 16:17:31,588 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-06-26 16:23:13,763 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-13 16:09:57,232 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-13 16:10:35,140 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-13 16:11:00,263 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-14 17:02:24,940 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-14 17:05:48,257 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-14 17:07:16,617 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-14 17:10:14,004 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-14 17:11:49,767 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-14 17:14:28,693 - myLogger - INFO - 点击【你好】的【时间】元素
+2019-07-15 20:37:45,509 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-15 20:37:45,626 - myLogger - INFO - 通过【[<selenium.webdriver.remote.webelement.WebElement (session="6437d06d86b6c98deb0db98b6acd77ee", element="b20656f4-27bc-418c-9a0d-a3b1bf59b784")>, <selenium.webdriver.remote.webelement.WebElement (session="6437d06d86b6c98deb0db98b6acd77ee", element="a84c9e53-fe3d-41c7-b25e-6b437a7f2700")>]】的元素，录入信息为：【15811478363】
+2019-07-15 20:39:34,615 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-15 20:39:34,633 - myLogger - INFO - 通过【[<selenium.webdriver.remote.webelement.WebElement (session="e2db03db2847e8cf9bb76d59b2368e57", element="51b91ae1-3857-4c5d-a639-ef08962d17a0")>, <selenium.webdriver.remote.webelement.WebElement (session="e2db03db2847e8cf9bb76d59b2368e57", element="c00d5ea0-c5b4-42d1-acfd-8137872ba964")>]】的元素，录入信息为：【15811478363】
+2019-07-15 20:42:59,781 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-15 20:42:59,803 - myLogger - INFO - 通过【[<selenium.webdriver.remote.webelement.WebElement (session="132eb8f4e1d694dbaef2209494e2914d", element="add3c178-17dc-4e85-9110-e90a7540cd97")>, <selenium.webdriver.remote.webelement.WebElement (session="132eb8f4e1d694dbaef2209494e2914d", element="c25f1af0-d7e7-4945-97fd-ab10a6172d36")>]】的元素，录入信息为：【15811478363】
+2019-07-15 20:43:23,731 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-15 20:43:23,749 - myLogger - INFO - 通过【[<selenium.webdriver.remote.webelement.WebElement (session="4b5e9cee15b55798ec0515f80957ce9a", element="2e759b31-58dd-4d4a-ab4a-fa11b52ecd10")>, <selenium.webdriver.remote.webelement.WebElement (session="4b5e9cee15b55798ec0515f80957ce9a", element="900aa320-5359-432d-86fd-20e20e6c2fbf")>]】的元素，录入信息为：【15811478363】
+2019-07-15 20:43:51,493 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-15 20:43:51,493 - myLogger - INFO - 通过【[<selenium.webdriver.remote.webelement.WebElement (session="a4c28e3426178e4ef52a0731bea315bf", element="b41e5829-b53b-4a67-b601-947c64cb6752")>, <selenium.webdriver.remote.webelement.WebElement (session="a4c28e3426178e4ef52a0731bea315bf", element="fb13d509-02cf-4400-b356-bbe0a1a4e9bb")>]】的元素，录入信息为：【15811478363】
+2019-07-15 20:45:04,355 - myLogger - INFO - 点击【CLASS NAME】的【el-input__inner】元素
+2019-07-15 20:50:20,877 - myLogger - INFO - 点击【CLASS NAME】的【el-input__inner】元素
+2019-07-15 20:50:46,266 - myLogger - INFO - 点击【CLASS NAME】的【el-input__inner】元素
+2019-07-15 21:11:22,880 - myLogger - INFO - 点击【CLASS_NAME】的【el-input__inner】元素
+2019-07-16 13:12:01,499 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-16 13:12:01,637 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="178e2268aeb87584a71306204274ff40", element="e68bf292-1be4-403f-965d-62c6d00839a6")>】的元素，录入信息为：【15811478363】
+2019-07-16 13:13:37,951 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-16 13:13:40,967 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="b4cd90daf93a244323d9c37402712b88", element="35757712-c976-4520-a0c5-8650595a848f")>】的元素，录入信息为：【15811478363】
+2019-07-17 19:33:26,304 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 19:33:26,350 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="5f7045634625f5733bbba24961902297", element="4183cfdd-9fcf-4abf-9015-8373886d4573")>】的元素，录入信息为：【15811478363】
+2019-07-17 19:35:24,865 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 19:35:24,891 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="b8304743147c3d88296c53eb7ed3926d", element="2e9bc252-0416-409d-bad6-feb83e9125cd")>】的元素，录入信息为：【15811478363】
+2019-07-17 19:35:25,042 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 19:35:25,056 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="b8304743147c3d88296c53eb7ed3926d", element="31b7451c-b109-4504-9ed6-14c98a671505")>】的元素，录入信息为：【123456】
+2019-07-17 19:35:25,158 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-17 20:52:26,667 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 20:52:26,683 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="36e7f3721904b7fd3e76faaa6e0e4823", element="7cf473d4-9b34-4bf7-bba0-99eb633af736")>】的元素，录入信息为：【15811478363】
+2019-07-17 20:52:26,830 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 20:52:26,840 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="36e7f3721904b7fd3e76faaa6e0e4823", element="e9259e82-1632-42ae-817d-c46b67a78a0f")>】的元素，录入信息为：【123456】
+2019-07-17 20:53:01,700 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 20:53:01,715 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="f85018d847126c33a0b6f7b31a018203", element="b018078a-22a8-4e35-a3bc-937775bcc134")>】的元素，录入信息为：【15811478363】
+2019-07-17 20:53:01,871 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 20:53:01,879 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="f85018d847126c33a0b6f7b31a018203", element="84754443-0c2a-436b-ad0b-e1656560017c")>】的元素，录入信息为：【123456】
+2019-07-17 20:53:01,970 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-17 21:03:33,965 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 21:03:33,987 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="4b6fe228ad0bf79a1845aa712c5e2dc6", element="ccb9cf7a-cdfa-4171-a72d-aafaf0633ee2")>】的元素，录入信息为：【15811478363】
+2019-07-17 21:03:34,131 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 21:03:34,142 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="4b6fe228ad0bf79a1845aa712c5e2dc6", element="09766a3a-e1c4-4c4c-ae4f-eec4ce17024a")>】的元素，录入信息为：【123456】
+2019-07-17 21:03:34,226 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-17 21:04:09,265 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 21:04:09,281 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="f932d28b032302871934a77a922fc814", element="23c36669-637f-467d-af65-af547c6fcbdd")>】的元素，录入信息为：【15811478363】
+2019-07-17 21:04:09,399 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 21:04:09,408 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="f932d28b032302871934a77a922fc814", element="ee797544-4c95-4e80-9de9-cd391f98b61c")>】的元素，录入信息为：【123456】
+2019-07-17 21:04:09,466 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-17 21:05:14,316 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 21:05:14,334 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="5a10bf43c0695c125ecef7b3a44c3ed2", element="a5761c58-89fe-47a9-8efb-082924298463")>】的元素，录入信息为：【15811478363】
+2019-07-17 21:05:14,451 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-17 21:05:14,462 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="5a10bf43c0695c125ecef7b3a44c3ed2", element="11efa4ec-60ad-47a2-bf59-40606f8a40ce")>】的元素，录入信息为：【123456】
+2019-07-17 21:05:14,522 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-17 21:05:14,540 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="5a10bf43c0695c125ecef7b3a44c3ed2", element="0d3ad349-8964-4288-ae1f-475a691fda0b")>】元素
+2019-07-20 16:38:56,127 - myLogger - INFO - 获取当前url【None】
+2019-07-20 16:40:31,730 - myLogger - INFO - 获取当前url【https://www.baidu.com】
+2019-07-20 16:40:32,346 - myLogger - INFO - 获取当前url【https://www.baidu.com/】
+2019-07-20 17:00:39,551 - myLogger - INFO - 获取当前url【https://www.baidu.com】
+2019-07-20 17:00:40,139 - myLogger - INFO - 获取当前url【https://www.baidu.com/】
+2019-07-20 17:00:40,150 - myLogger - INFO - 返回当前驱动
+2019-07-20 17:01:51,525 - myLogger - INFO - 获取当前url【https://www.baidu.com】
+2019-07-20 17:01:52,186 - myLogger - INFO - 获取当前url【https://www.baidu.com/】
+2019-07-20 17:01:52,193 - myLogger - INFO - 返回当前驱动
+2019-07-22 12:26:47,147 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 12:26:51,923 - myLogger - INFO - 获取title【积分管理及营销管理】
+2019-07-22 12:51:39,150 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 12:51:50,971 - myLogger - INFO - 获取title【积分管理及营销管理】
+2019-07-22 12:53:04,894 - myLogger - INFO - 获取当前url【data:,】
+2019-07-22 12:58:17,797 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 13:00:13,646 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 13:01:48,922 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 13:02:55,954 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 13:03:40,685 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 13:04:02,467 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 13:04:42,782 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-22 13:49:31,678 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-24 21:01:09,304 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-24 21:02:03,749 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-24 21:09:41,000 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-25 19:59:08,241 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-25 19:59:10,360 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 19:59:10,380 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="8aceff85d23974e20f235b4cfe21fe14", element="47a68bf5-e036-4ad9-aab9-913687c3f2a7")>】的元素，录入信息为：【15811478363】
+2019-07-25 20:00:08,576 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-25 20:00:10,610 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 20:00:10,626 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="91c3d9d6d7f6c366ce656293247db2b5", element="dfb5c4b5-a795-43cf-879b-8c31ff4e2a50")>】的元素，录入信息为：【15811478363】
+2019-07-25 20:03:14,531 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-25 20:03:16,643 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 20:03:16,659 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="fd31505b01f88b0a12888867c7b4c3b9", element="81c49114-1c4d-4334-b336-640fc1ef82fc")>】的元素，录入信息为：【15811478363】
+2019-07-25 20:08:39,349 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-25 20:08:41,394 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 20:08:41,409 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="95634438e93934a18b563916332b9f6d", element="0f36a498-80cc-497d-b695-244d1e00fb49")>】的元素，录入信息为：【15811478363】
+2019-07-25 20:08:46,588 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 20:08:46,588 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="95634438e93934a18b563916332b9f6d", element="88bf535b-ebdb-4ebe-901c-a1dfe441f767")>】的元素，录入信息为：【123456】
+2019-07-25 20:08:51,716 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-25 20:08:51,730 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="95634438e93934a18b563916332b9f6d", element="2bba9d7e-d754-46d4-9b3f-68e02be61b97")>】元素
+2019-07-25 21:10:44,615 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-25 21:10:46,717 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 21:10:46,750 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="54296dad81257abe49fd4f5df036dec4", element="b9a0c660-6826-41c9-a766-7720449f9696")>】的元素，录入信息为：【15811478363】
+2019-07-25 21:10:52,038 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 21:10:52,038 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="54296dad81257abe49fd4f5df036dec4", element="ec13e248-152c-4e27-9d05-f6e9c23c247e")>】的元素，录入信息为：【123456】
+2019-07-25 21:10:57,157 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-25 21:10:57,157 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="54296dad81257abe49fd4f5df036dec4", element="60a882cc-5878-41f1-ad67-eb206eddf9c6")>】元素
+2019-07-25 21:11:17,572 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-25 21:11:19,674 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 21:11:19,689 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="b29f08026c1c4c6f8239a2889c54f2a0", element="b9855db0-ab11-4927-876a-2efbbd77aa27")>】的元素，录入信息为：【15811478363】
+2019-07-25 21:11:19,905 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-25 21:11:19,918 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="b29f08026c1c4c6f8239a2889c54f2a0", element="1e38dbbc-66e5-440e-87ca-2440b0df8c24")>】的元素，录入信息为：【123456】
+2019-07-25 21:11:20,021 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-25 21:11:20,046 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="b29f08026c1c4c6f8239a2889c54f2a0", element="fdca2e40-57b4-488d-bb9c-3910e6614fe5")>】元素
+2019-07-26 13:18:14,511 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-26 13:18:16,924 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:18:16,953 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="ec46a39923d1f0d395498fd2813e5cd7", element="92ed060b-6c37-4211-99c0-f4af2eb1acad")>】的元素，录入信息为：【15811478363】
+2019-07-26 13:18:17,170 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:18:17,184 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="ec46a39923d1f0d395498fd2813e5cd7", element="abc3eafe-c4af-4762-8454-2741505b047a")>】的元素，录入信息为：【123456】
+2019-07-26 13:18:17,306 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-26 13:18:17,329 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="ec46a39923d1f0d395498fd2813e5cd7", element="99a7189d-461a-4f48-aa94-1cd259893ebf")>】元素
+2019-07-26 13:19:57,133 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-26 13:19:59,236 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:19:59,253 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="84c6ab8a7413186b33a8d983cb074ae1", element="4b45b4f0-c06a-423d-b898-ed31f497d626")>】的元素，录入信息为：【15811478363】
+2019-07-26 13:19:59,412 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:19:59,423 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="84c6ab8a7413186b33a8d983cb074ae1", element="60b426ea-c5fe-4ff4-ab8c-ce3d3ee4716a")>】的元素，录入信息为：【123456】
+2019-07-26 13:19:59,513 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-26 13:19:59,530 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="84c6ab8a7413186b33a8d983cb074ae1", element="67af0948-a877-4963-bdce-170bce81f15a")>】元素
+2019-07-26 13:50:36,026 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-26 13:50:40,336 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:50:40,358 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="8a059a97d3e2c5c9534e4776be504362", element="bf9e8384-d5a4-4875-b17e-602a7fe2ad63")>】的元素，录入信息为：【15811478363】
+2019-07-26 13:50:40,566 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:50:40,575 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="8a059a97d3e2c5c9534e4776be504362", element="4d52d8a0-a830-489c-8b05-ee4db4a28ce7")>】的元素，录入信息为：【123456】
+2019-07-26 13:50:40,661 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-26 13:50:40,678 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="8a059a97d3e2c5c9534e4776be504362", element="9e29f9fb-a01b-4020-8026-3f20bd315826")>】元素
+2019-07-26 13:51:46,280 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-26 13:51:49,871 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:51:49,876 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="7bd50f86e71a069b34fdda6138a9b675", element="85bb5a05-7846-453f-92c7-5cc5ea9c0fcc")>】的元素，录入信息为：【15811478363】
+2019-07-26 13:51:50,071 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 13:51:50,080 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="7bd50f86e71a069b34fdda6138a9b675", element="fd612be5-7680-44f5-9e93-78563c51ba0d")>】的元素，录入信息为：【123456】
+2019-07-26 13:51:50,185 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-26 13:51:50,202 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="7bd50f86e71a069b34fdda6138a9b675", element="de64fd30-f13d-4da4-a50d-e1e4c0112cbd")>】元素
+2019-07-26 14:02:12,232 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-26 14:02:14,815 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 14:02:14,842 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="223ed5fa61e0b2625f3bf72328068f91", element="e83c07b8-3937-4625-9027-89f8af99caea")>】的元素，录入信息为：【158114783】
+2019-07-26 14:02:15,079 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 14:02:15,092 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="223ed5fa61e0b2625f3bf72328068f91", element="a9f9ad0b-3d62-4027-830e-857e10caebc2")>】的元素，录入信息为：【123456】
+2019-07-26 14:02:15,221 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-26 14:02:15,250 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="223ed5fa61e0b2625f3bf72328068f91", element="c152c8cb-e2a6-4507-b615-776088b4b07f")>】元素
+2019-07-26 14:09:52,856 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-26 14:09:55,095 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 14:09:55,125 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="003c65528902252f2ab864074b9a2cf1", element="e156d671-4683-4ecd-920f-a76b86a83982")>】的元素，录入信息为：【158114783】
+2019-07-26 14:09:55,303 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 14:09:55,315 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="003c65528902252f2ab864074b9a2cf1", element="c1ca3cc2-94ff-4ad3-b853-6d9a3728c7e7")>】的元素，录入信息为：【123456】
+2019-07-26 14:09:55,412 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-26 14:09:55,432 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="003c65528902252f2ab864074b9a2cf1", element="77c771ee-957e-4896-babf-8f832710df72")>】元素
+2019-07-26 14:09:55,509 - myLogger - INFO - 返回当前驱动
+2019-07-26 14:14:16,859 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-26 14:14:19,281 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 14:14:19,296 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="c5fe507122ceacf49800c4e9ae776d9c", element="5d49129b-f688-47fe-aa44-f98c74e3a03b")>】的元素，录入信息为：【158114783】
+2019-07-26 14:14:19,454 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-26 14:14:19,463 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="c5fe507122ceacf49800c4e9ae776d9c", element="4f5a189a-0c89-4c44-9ec2-4d3dd12da7f0")>】的元素，录入信息为：【123456】
+2019-07-26 14:14:19,557 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-26 14:14:19,572 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="c5fe507122ceacf49800c4e9ae776d9c", element="14cbd5dd-ef32-4a95-a093-0db1cb1f5e87")>】元素
+2019-07-26 14:14:19,628 - myLogger - INFO - 返回当前驱动
+2019-07-27 14:43:29,905 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 14:43:32,480 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 14:43:32,504 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="e083e9231f4646417f101551df4bb2c3", element="2a6b1e0c-7e83-4311-a354-1e0f1083a885")>】的元素，录入信息为：【15811478363】
+2019-07-27 15:13:54,717 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 15:13:56,974 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 15:13:56,995 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="4cd2ec95ebd99da1ce8ac5f434c3043e", element="fdda362a-b3a8-4223-88ac-5ec1b72ba7f7")>】的元素，录入信息为：【15811478363】
+2019-07-27 15:13:57,227 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 15:13:57,239 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="4cd2ec95ebd99da1ce8ac5f434c3043e", element="b30350b8-1cb1-45c4-af1d-a46dd9dbefed")>】的元素，录入信息为：【123456】
+2019-07-27 15:13:57,350 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 15:13:57,369 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="4cd2ec95ebd99da1ce8ac5f434c3043e", element="63c6a464-be27-41aa-8f15-dd3363aa1f76")>】元素
+2019-07-27 15:13:57,454 - myLogger - INFO - 返回当前驱动
+2019-07-27 16:21:33,770 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 16:21:35,933 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 16:21:35,962 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="85eeba52de6b8a70c7822057cd018fd8", element="0c87771c-2955-4558-b5e9-7fd5e017b1f9")>】的元素，录入信息为：【15811478363】
+2019-07-27 16:21:36,188 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 16:21:36,203 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="85eeba52de6b8a70c7822057cd018fd8", element="e29567aa-3742-4c32-a9b8-7d0491807b7a")>】的元素，录入信息为：【123456】
+2019-07-27 16:21:36,335 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 16:21:36,357 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="85eeba52de6b8a70c7822057cd018fd8", element="0cbbd471-b81f-4ac9-88e5-cc0c32e05838")>】元素
+2019-07-27 16:21:36,447 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:32:31,441 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:32:33,442 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:32:33,462 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="c870bc760b23730451e9c235edfa4f91", element="b53629d3-580f-4800-9d60-0cb383efa416")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:32:33,633 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:32:33,647 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="c870bc760b23730451e9c235edfa4f91", element="abd03c95-a4d9-4e9b-be15-1e5404a19460")>】的元素，录入信息为：【123456】
+2019-07-27 19:32:33,737 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:32:33,756 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="c870bc760b23730451e9c235edfa4f91", element="d5b7a73c-f1ae-4e08-a176-5756abdf42a0")>】元素
+2019-07-27 19:32:33,824 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:41:37,804 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:41:40,358 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:41:40,383 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="38576d68c7acf3c6285da54c7db34466", element="68f9b286-5555-4136-9f1b-1141cc823e4a")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:41:40,612 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:41:40,626 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="38576d68c7acf3c6285da54c7db34466", element="524eb4e9-2084-4bc3-ad79-293616a79215")>】的元素，录入信息为：【123456】
+2019-07-27 19:41:40,758 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:41:40,783 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="38576d68c7acf3c6285da54c7db34466", element="0307748d-2782-4216-8ac5-b34724cc53fe")>】元素
+2019-07-27 19:41:40,880 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:42:11,042 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:42:13,068 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:42:13,093 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="c82b4d927d2be8389d5d16f7ed4eec10", element="c37f3aa2-cc82-4da8-9990-385568ebe624")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:42:13,285 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:42:13,297 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="c82b4d927d2be8389d5d16f7ed4eec10", element="2fe14598-330c-44d6-8717-ac937a0e72ce")>】的元素，录入信息为：【123456】
+2019-07-27 19:42:13,383 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:42:13,399 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="c82b4d927d2be8389d5d16f7ed4eec10", element="66f01d87-7693-42c0-aba4-414e9e98042b")>】元素
+2019-07-27 19:42:13,462 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:43:04,109 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:43:07,043 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:43:07,074 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="864bc4a552dad5c0255c84254ba333a8", element="bbdfe399-3cee-4af4-851c-a03746cf60c4")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:43:07,308 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:43:07,321 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="864bc4a552dad5c0255c84254ba333a8", element="4125cc1f-3087-41b8-b0cd-202aabaea463")>】的元素，录入信息为：【123456】
+2019-07-27 19:43:07,423 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:43:07,445 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="864bc4a552dad5c0255c84254ba333a8", element="558080db-5458-41e3-96e2-8bfe0bcd7e60")>】元素
+2019-07-27 19:43:07,525 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:43:48,125 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:43:50,074 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:43:50,105 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="cb0e849e0c99d0367263c8efc67518d5", element="d87ae504-e7da-470c-8055-d027576d3cd2")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:43:50,291 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:43:50,307 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="cb0e849e0c99d0367263c8efc67518d5", element="78ece454-383e-49ce-bee6-c77372a9402b")>】的元素，录入信息为：【123456】
+2019-07-27 19:43:50,418 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:43:50,440 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="cb0e849e0c99d0367263c8efc67518d5", element="4bcaf5bc-60fc-41eb-a26c-f87be8f3d691")>】元素
+2019-07-27 19:43:50,520 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:44:35,341 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:44:37,403 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:44:37,425 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="ce11bdf97ef7e2151377ed563f3794dc", element="1b090118-8141-4500-b201-6770237dbad6")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:44:37,605 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:44:37,619 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="ce11bdf97ef7e2151377ed563f3794dc", element="fc8d96d9-4783-43e5-9bc0-c27f1b24eb5a")>】的元素，录入信息为：【123456】
+2019-07-27 19:44:37,701 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:44:37,719 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="ce11bdf97ef7e2151377ed563f3794dc", element="e2141124-a8e4-4e3a-a5f5-16990218eb74")>】元素
+2019-07-27 19:44:37,789 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:55:04,788 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:55:06,896 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:55:06,920 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="2d30feee2cde8f6aef0fab684d159765", element="92047807-de5b-430a-85d1-38f578ffbc80")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:55:07,103 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:55:07,118 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="2d30feee2cde8f6aef0fab684d159765", element="4c7d0d00-5544-402d-9679-1a63cbbc9f0c")>】的元素，录入信息为：【123456】
+2019-07-27 19:55:07,215 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:55:07,233 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="2d30feee2cde8f6aef0fab684d159765", element="063e0700-ff83-4f80-8107-f2df9974c2de")>】元素
+2019-07-27 19:55:07,323 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:55:17,371 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:55:19,432 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:55:19,448 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="928e1e04bf793208af059b0de31029da", element="344a0cef-7206-4301-a14c-9df1af236f44")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:55:19,629 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:55:19,642 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="928e1e04bf793208af059b0de31029da", element="45d12af5-5ba6-40c4-8951-d40a0d4a503a")>】的元素，录入信息为：【123456】
+2019-07-27 19:55:19,728 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:55:19,742 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="928e1e04bf793208af059b0de31029da", element="91a54b09-1fb1-4150-8764-7b75a27c104d")>】元素
+2019-07-27 19:55:19,805 - myLogger - INFO - 返回当前驱动
+2019-07-27 19:58:51,078 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-27 19:58:55,265 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:58:56,277 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="10aa23e81e22e5c36c06cf35ed59e41a", element="0b0b5095-ee21-4b23-b789-348e6ccfee55")>】的元素，录入信息为：【15811478363】
+2019-07-27 19:58:57,439 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-27 19:58:58,453 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="10aa23e81e22e5c36c06cf35ed59e41a", element="0940a68f-51a3-45af-a3c6-1cc3de658527")>】的元素，录入信息为：【123456】
+2019-07-27 19:58:59,568 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-27 19:59:00,590 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="10aa23e81e22e5c36c06cf35ed59e41a", element="8d8bbc38-7d34-48e5-a731-9230a788d5bd")>】元素
+2019-07-27 19:59:00,675 - myLogger - INFO - 返回当前驱动
+2019-07-28 13:20:56,842 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 13:21:00,813 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 13:21:01,824 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="465ce696659cf39596fbac6884082384", element="3d78cb59-6acb-4850-a07f-832dd18e791e")>】的元素，录入信息为：【15811478363】
+2019-07-28 13:21:02,984 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 13:21:03,992 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="465ce696659cf39596fbac6884082384", element="e075f79a-1bcb-443b-b055-b3f244f4eb1c")>】的元素，录入信息为：【123456】
+2019-07-28 13:21:05,281 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 13:21:06,299 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="465ce696659cf39596fbac6884082384", element="717a81fc-9950-4444-9ee4-f77cd14f4072")>】元素
+2019-07-28 13:21:06,374 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:39:13,742 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:39:17,740 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:39:18,761 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="6304e4223a0406d042f9d9629b30a820", element="0236b5ae-6a51-4ede-b668-2cc1bba35abd")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:39:19,957 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:39:20,977 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="6304e4223a0406d042f9d9629b30a820", element="cdbdd9b1-b47a-4aff-a8a8-8e0edc571d43")>】的元素，录入信息为：【123456】
+2019-07-28 15:39:22,098 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:39:23,118 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="6304e4223a0406d042f9d9629b30a820", element="bef72a2f-5ac8-42cf-b716-c7ac68757e33")>】元素
+2019-07-28 15:39:23,178 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:42:08,909 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:42:12,884 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:42:13,972 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="30829b75f0119762fec8e1895426f234", element="08058deb-8a7a-42cc-8df0-2932ca51910a")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:42:15,115 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:42:16,129 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="30829b75f0119762fec8e1895426f234", element="a117ade9-6fa8-477b-b8a1-ab373d73b497")>】的元素，录入信息为：【123456】
+2019-07-28 15:42:17,326 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:42:18,338 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="30829b75f0119762fec8e1895426f234", element="d1a9c4f6-0a5d-488e-b85a-79a8b390481b")>】元素
+2019-07-28 15:42:18,394 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:45:54,622 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:45:58,678 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:45:59,698 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="7642cf7c5148e42a45c5695a9c1c3fc2", element="e3929560-9b0d-4914-997d-1c5fb79fa974")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:46:00,875 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:46:01,878 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="7642cf7c5148e42a45c5695a9c1c3fc2", element="f755a8cc-566f-45b5-b293-58cde419d252")>】的元素，录入信息为：【123456】
+2019-07-28 15:46:03,058 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:46:04,098 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="7642cf7c5148e42a45c5695a9c1c3fc2", element="4c6db0dc-81d6-4665-bc2c-11fafa7bdc80")>】元素
+2019-07-28 15:46:04,347 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:47:24,372 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:47:28,328 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:47:29,338 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="84e126742a07d54d73978286b1f27485", element="216857d3-80c3-405c-b695-e54b257e39e3")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:47:30,514 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:47:31,529 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="84e126742a07d54d73978286b1f27485", element="4e875c4c-d921-484b-b40e-a63ad089d3ec")>】的元素，录入信息为：【123456】
+2019-07-28 15:47:32,660 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:47:33,688 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="84e126742a07d54d73978286b1f27485", element="bf87252c-8800-4376-8fe1-fe24f70a093d")>】元素
+2019-07-28 15:47:33,772 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:48:47,606 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:48:51,792 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:48:52,830 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="d019b10938053fd2f3d6606f42ea7ec5", element="fd027c26-139b-4efd-ad98-ea3806b6a5c5")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:48:54,035 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:48:55,048 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="d019b10938053fd2f3d6606f42ea7ec5", element="8ab3095d-b91c-4240-97e6-75325c445fd9")>】的元素，录入信息为：【123456】
+2019-07-28 15:48:56,175 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:48:57,188 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="d019b10938053fd2f3d6606f42ea7ec5", element="0d353c8c-c168-4cc3-a5cd-2f30d6abb4ef")>】元素
+2019-07-28 15:48:57,246 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:54:41,691 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:54:45,774 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:54:46,794 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="9b04de45ea287338bf11103cc8395a70", element="1f58112f-bdc2-4aaa-8e67-7eecee4a2079")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:54:48,008 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:54:49,021 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="9b04de45ea287338bf11103cc8395a70", element="3fc556e9-8abf-4dd0-8205-8f52408805b4")>】的元素，录入信息为：【123456】
+2019-07-28 15:54:50,170 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:54:51,181 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="9b04de45ea287338bf11103cc8395a70", element="4023ae10-4b49-4830-af8f-48310273fd83")>】元素
+2019-07-28 15:54:51,238 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:58:05,711 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:58:09,744 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:58:10,761 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="a5859c7360f820eff6a828a780b7446c", element="f9eb6453-294b-409e-99a2-79da381fad96")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:58:11,932 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:58:12,951 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="a5859c7360f820eff6a828a780b7446c", element="5e6d178f-d3c8-46e3-8345-cd1b49f4e911")>】的元素，录入信息为：【123456】
+2019-07-28 15:58:14,029 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:58:15,041 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="a5859c7360f820eff6a828a780b7446c", element="70d19801-f41e-4215-8c0d-18bbdcfbc326")>】元素
+2019-07-28 15:58:15,105 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:58:52,394 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:58:56,391 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:58:57,424 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="5ad622308fa6d7c30b8c7dd06ed4d429", element="f5c2afee-0b23-46cf-8e69-d705dea1f439")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:58:58,608 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:58:59,631 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="5ad622308fa6d7c30b8c7dd06ed4d429", element="005bc4c6-332e-4dad-bb01-bda245e17555")>】的元素，录入信息为：【123456】
+2019-07-28 15:59:00,784 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:59:01,814 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="5ad622308fa6d7c30b8c7dd06ed4d429", element="761c8928-15b1-4b5b-9c25-68566aa1cdca")>】元素
+2019-07-28 15:59:01,891 - myLogger - INFO - 返回当前驱动
+2019-07-28 15:59:31,404 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-28 15:59:35,421 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:59:36,441 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="713c65f2836fdb31da973e0dc2ed2e2e", element="c47696a5-2a04-46a0-af5a-8deb1eb68799")>】的元素，录入信息为：【15811478363】
+2019-07-28 15:59:37,567 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-28 15:59:38,574 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="713c65f2836fdb31da973e0dc2ed2e2e", element="734fe975-8c66-4431-ae4b-86354c30d9fe")>】的元素，录入信息为：【123456】
+2019-07-28 15:59:39,692 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-28 15:59:40,720 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="713c65f2836fdb31da973e0dc2ed2e2e", element="e179fd99-204f-4089-998b-f862366fbfa8")>】元素
+2019-07-28 15:59:40,786 - myLogger - INFO - 返回当前驱动
+2019-07-29 21:17:07,495 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-29 21:17:12,339 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-29 21:17:13,362 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="967c014482b6b862da19e6b7034c9d27", element="0107c36c-2ab1-442c-98ac-3b05b91e01d2")>】的元素，录入信息为：【15811478363】
+2019-07-29 21:17:14,528 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-29 21:17:15,541 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="967c014482b6b862da19e6b7034c9d27", element="e824b831-b164-475d-802a-7d9abfedddab")>】的元素，录入信息为：【123456】
+2019-07-29 21:17:16,651 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-29 21:17:17,671 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="967c014482b6b862da19e6b7034c9d27", element="ea963dde-7412-43b1-8e77-bd786a04437a")>】元素
+2019-07-29 21:17:17,733 - myLogger - INFO - 返回当前驱动
+2019-07-30 21:46:57,734 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-30 21:47:01,760 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-30 21:47:02,783 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="21771a90cb8e4d1bfaf32845a7d8ca80", element="f4c88f06-3a3c-434e-b65f-9d8334ee0a9c")>】的元素，录入信息为：【15811478363】
+2019-07-30 21:47:03,975 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-30 21:47:04,988 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="21771a90cb8e4d1bfaf32845a7d8ca80", element="1eb436f7-1a29-487d-8a74-25173141f4e5")>】的元素，录入信息为：【123456】
+2019-07-30 21:47:06,170 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-30 21:47:07,186 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="21771a90cb8e4d1bfaf32845a7d8ca80", element="92a5d590-1dd1-4fa1-a20b-d2fea829d8dc")>】元素
+2019-07-30 21:47:07,240 - myLogger - INFO - 返回当前驱动
+2019-07-30 21:47:08,329 - myLogger - INFO - 点击【class name】的【el-submenu__title】元素
+2019-07-30 21:47:09,343 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="21771a90cb8e4d1bfaf32845a7d8ca80", element="12aca516-d911-44f9-873e-aca2bda7f864")>】元素
+2019-07-30 21:47:09,391 - myLogger - INFO - 返回当前驱动
+2019-07-30 21:48:39,162 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-07-30 21:48:43,149 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-30 21:48:44,180 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="ab5faef2eab640aa6db802a925c861aa", element="1fdeb47d-11e8-47ee-8963-a727c666a67c")>】的元素，录入信息为：【15811478363】
+2019-07-30 21:48:45,351 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-07-30 21:48:46,362 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="ab5faef2eab640aa6db802a925c861aa", element="44d1397c-0c75-44fe-8e55-72486100fcb6")>】的元素，录入信息为：【123456】
+2019-07-30 21:48:47,494 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-07-30 21:48:48,503 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="ab5faef2eab640aa6db802a925c861aa", element="6825d2ec-4f3d-4b83-8984-7d557d6e39f1")>】元素
+2019-07-30 21:48:48,572 - myLogger - INFO - 返回当前驱动
+2019-07-30 21:48:49,574 - myLogger - INFO - 点击【class name】的【el-submenu__title】元素
+2019-07-30 21:48:50,580 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="ab5faef2eab640aa6db802a925c861aa", element="594d8843-c0f1-47da-abb8-6561073fd55c")>】元素
+2019-07-30 21:48:50,636 - myLogger - INFO - 返回当前驱动
+2019-08-01 18:06:36,270 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-08-01 18:06:40,460 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-01 18:06:41,486 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="cc654afb4c2be9ae7353239edb6abb26", element="273a943a-b946-42a7-9c8c-ebdcf663ab8c")>】的元素，录入信息为：【15811478363】
+2019-08-01 18:06:42,691 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-01 18:06:43,712 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="cc654afb4c2be9ae7353239edb6abb26", element="2e46a105-d7d6-4f42-9096-8563b4dec358")>】的元素，录入信息为：【123456】
+2019-08-01 18:06:44,899 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-08-01 18:06:45,929 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="cc654afb4c2be9ae7353239edb6abb26", element="f4e6abe6-04ff-46c8-9133-ef69b2f93ed0")>】元素
+2019-08-01 18:06:46,003 - myLogger - INFO - 返回当前驱动
+2019-08-01 18:06:47,006 - myLogger - INFO - 点击【class name】的【el-submenu__title】元素
+2019-08-01 18:06:48,029 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="cc654afb4c2be9ae7353239edb6abb26", element="fb467b54-c886-400f-aa84-eaad84654721")>】元素
+2019-08-01 18:06:48,116 - myLogger - INFO - 返回当前驱动
+2019-08-01 18:14:57,762 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-08-01 18:15:01,696 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-01 18:15:02,712 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="9d05bbbacfe00b5524566a8d2f07f810", element="4b191beb-27c1-40e3-afdb-7df9e92a8f8c")>】的元素，录入信息为：【15811478363】
+2019-08-01 18:15:03,940 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-01 18:15:04,960 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="9d05bbbacfe00b5524566a8d2f07f810", element="55a725e9-1bf5-415f-8b89-ae41b587d34e")>】的元素，录入信息为：【123456】
+2019-08-01 18:15:06,123 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-08-01 18:15:07,139 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="9d05bbbacfe00b5524566a8d2f07f810", element="fdd57c74-f274-40b4-b9d0-88444b27f2d7")>】元素
+2019-08-01 18:15:07,193 - myLogger - INFO - 返回当前驱动
+2019-08-01 18:15:08,209 - myLogger - INFO - 点击【class name】的【el-submenu__title】元素
+2019-08-01 18:15:09,239 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="9d05bbbacfe00b5524566a8d2f07f810", element="8b25c0fd-9895-4d3c-b97b-42f94e800fe5")>】元素
+2019-08-01 18:15:09,289 - myLogger - INFO - 返回当前驱动
+2019-08-12 18:11:03,497 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-08-12 18:11:08,500 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-12 18:11:09,528 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="4a07143ff5cfed5b65798305f952a0b0", element="9a5478b3-0749-4da8-8552-dfd2eafe094a")>】的元素，录入信息为：【15811478363】
+2019-08-12 18:11:10,655 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-12 18:11:11,675 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="4a07143ff5cfed5b65798305f952a0b0", element="8da48444-7002-4ca1-bcca-bffaed20a47b")>】的元素，录入信息为：【123456】
+2019-08-12 18:11:12,742 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-08-12 18:11:13,743 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="4a07143ff5cfed5b65798305f952a0b0", element="c1d55a30-37e2-4aba-9637-9b26a76bd887")>】元素
+2019-08-12 18:11:13,804 - myLogger - INFO - 返回当前驱动
+2019-08-12 18:11:14,806 - myLogger - INFO - 点击【class name】的【el-submenu__title】元素
+2019-08-12 18:11:15,821 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="4a07143ff5cfed5b65798305f952a0b0", element="d8d59207-8427-4a17-96e3-b94f62f822c2")>】元素
+2019-08-12 18:11:15,879 - myLogger - INFO - 返回当前驱动
+2019-08-12 18:43:27,521 - myLogger - INFO - 获取当前url【https://tcms.lifeat.cn:45788/#/login】
+2019-08-12 18:43:31,683 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-12 18:43:32,705 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="54debe67fbdcd2e406117dee796a9d0b", element="53369600-118e-408c-a28a-47c680f14eb1")>】的元素，录入信息为：【15811478363】
+2019-08-12 18:43:33,818 - myLogger - INFO - 点击【class name】的【el-input__inner】元素
+2019-08-12 18:43:34,835 - myLogger - INFO - 通过【<selenium.webdriver.remote.webelement.WebElement (session="54debe67fbdcd2e406117dee796a9d0b", element="6a801540-10da-4d2f-a6b4-39f95701154f")>】的元素，录入信息为：【123456】
+2019-08-12 18:43:35,926 - myLogger - INFO - 点击【tag name】的【button】元素
+2019-08-12 18:43:36,947 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="54debe67fbdcd2e406117dee796a9d0b", element="3c09a3d4-1254-426b-b5b0-14da35ada0c3")>】元素
+2019-08-12 18:43:37,009 - myLogger - INFO - 返回当前驱动
+2019-08-12 18:43:38,013 - myLogger - INFO - 点击【class name】的【el-submenu__title】元素
+2019-08-12 18:43:39,034 - myLogger - INFO - 点击【<selenium.webdriver.remote.webelement.WebElement (session="54debe67fbdcd2e406117dee796a9d0b", element="474a5d83-6ee0-4b0f-933e-c8b9faa9b519")>】元素
+2019-08-12 18:43:39,109 - myLogger - INFO - 返回当前驱动
